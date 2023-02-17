@@ -1,0 +1,34 @@
+{
+  "Title": "FP Base",
+  "Type": "game",
+  "Org": "stk",
+  "Ident": "fps_base",
+  "Tags": "",
+  "Schema": 1,
+  "HasAssets": false,
+  "AssetsPath": "",
+  "ResourcePaths": [],
+  "HasCode": true,
+  "CodePath": "/code/",
+  "Metadata": {
+    "MaxPlayers": 64,
+    "MinPlayers": 1,
+    "GameNetworkType": "Multiplayer",
+    "MapSelect": "Unrestricted",
+    "MapList": [],
+    "RankType": "None",
+    "PerMapRanking": false,
+    "LeaderboardType": "None",
+    "ProjectTemplate": null,
+    "CsProjName": "",
+    "ControlModes": {
+      "Keyboard": true,
+      "VR": false,
+      "Gamepad": false
+    },
+    "Summary": "",
+    "Description": "This is a First person Base with just Movements, and Animations.\nFeel Free to it as a Template.",
+    "Public": true,
+    "ReplaceTags": "template base fp"
+  }
+}
